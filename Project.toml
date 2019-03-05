@@ -1,0 +1,6 @@
+authors = ["Gregory Wagner <wagner.greg@gmail.com>"]
+name = "Discretization"
+uuid = "aff6f360-3f82-11e9-09f2-f97320641e57"
+version = "0.1.0"
+
+[deps]
